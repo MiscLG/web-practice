@@ -1,0 +1,22 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "a basic express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MiscLG/web-practice.git"
+  },
+  "author": "Luis Garcia Cerecedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiscLG/web-practice/issues"
+  },
+  "homepage": "https://github.com/MiscLG/web-practice#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
